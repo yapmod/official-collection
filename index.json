@@ -4,6 +4,12 @@
   "description": "Plugins maintained by Yapmod.",
   "plugins": [
     {
+      "name": "Link Previews",
+      "author": "Yapmod",
+      "description": "Show platform-specific cards for social posts, videos, music and code, with a fallback for other websites.",
+      "url": "./link-previews/"
+    },
+    {
       "name": "Quiet Popups",
       "author": "Yapmod",
       "description": "Dismiss install and notification prompts, Plus offers, and other interruptions on desktop and mobile.",
