@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "name": "Official Yapmod Themes",
+  "description": "Themes published by the Yapmod team.",
+  "themes": [
+    {
+      "name": "Black",
+      "author": "ilyeshdz",
+      "description": "Ink-black surfaces, white accents and JetBrains Mono throughout Yapin.",
+      "url": "https://raw.githubusercontent.com/ilyeshdz/yapmod-theme/theme-dist/themes/black.theme.css"
+    }
+  ]
+}

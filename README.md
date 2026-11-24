@@ -1,12 +1,22 @@
 # Official Yapmod Collection
 
-The official plugin registry maintained by Yapmod. Add the collection once and use **Refresh collection** in the client to see newly published plugins. Choose which plugins to install and enable individually.
+The official plugin and theme collections maintained by Yapmod. Add the collection once and use **Refresh collection** in the client to see newly published plugins. Choose which plugins to install and enable individually.
 
 [Browse the catalog](https://yapmod.github.io/official-collection/) · [Collection index](https://raw.githubusercontent.com/yapmod/official-collection/plugin-dist/index.json)
 
-## Add the collection
+## Add the plugin collection
 
 In Yapmod Client, open **Plugins → Add Plugin → Collection**, paste the collection index URL above, and select **Add Collection**.
+
+## Add the theme collection
+
+In **Themes → Add Theme → Collection**, paste the URL below and select **Add Collection**. Expand **Official Yapmod Themes**, install **Black**, and enable it.
+
+```text
+https://raw.githubusercontent.com/yapmod/official-collection/main/themes/index.json
+```
+
+Black is published by ilyeshdz for personal, non-commercial use. [Theme source and preview](https://github.com/ilyeshdz/yapmod-theme) · [License](https://github.com/ilyeshdz/yapmod-theme/blob/main/themes/black/LICENSE)
 
 ## Maintain the registry
 
