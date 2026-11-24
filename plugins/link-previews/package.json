@@ -1,0 +1,8 @@
+{
+  "name": "Link Previews",
+  "private": true,
+  "type": "module",
+  "version": "1.1.0",
+  "description": "Show platform-specific cards for social posts, videos, music and code, with a fallback for other websites.",
+  "author": "Yapmod"
+}
