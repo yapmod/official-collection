@@ -1,0 +1,25 @@
+{
+  "name": "official-collection",
+  "version": "1.0.0",
+  "description": "Plugins maintained by Yapmod.",
+  "scripts": {
+    "build": "pnpm typecheck && node scripts/plugins.mjs build",
+    "dev": "node scripts/plugins.mjs dev",
+    "test": "node --test scripts/plugins.test.mjs",
+    "typecheck": "tsc --noEmit"
+  },
+  "keywords": [
+    "yapmod",
+    "plugins"
+  ],
+  "author": "Yapmod",
+  "license": "MIT",
+  "devDependencies": {
+    "@yapmod/builder": "^1.3.0",
+    "@yapmod/types": "^1.1.0",
+    "solid-js": "^1.9.18",
+    "typescript": "^7.0.2"
+  },
+  "private": true,
+  "packageManager": "pnpm@12.10.1"
+}
