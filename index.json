@@ -2,5 +2,12 @@
   "schemaVersion": 1,
   "name": "Official Yapmod Collection",
   "description": "Plugins maintained by Yapmod.",
-  "plugins": []
+  "plugins": [
+    {
+      "name": "Quiet Popups",
+      "author": "Yapmod",
+      "description": "Dismiss install and notification prompts, Plus offers, and other interruptions on desktop and mobile.",
+      "url": "./quiet-popups/"
+    }
+  ]
 }
